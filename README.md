@@ -1,4 +1,3 @@
 # MyArticles
----
-  const num = 12;
----
+
+<pre>s</pre>
